@@ -1,0 +1,6 @@
+oc login https://api.starter-us-west-2.openshift.com
+oc project lulu-bijoux
+oc status
+
+
+*These parameters often include things like passwords. If you will need to reference these values later, copy them to a safe location. Parameters SOURCE_REPOSITORY_REF, CONTEXT_DIR, APPLICATION_DOMAIN, GITHUB_WEBHOOK_SECRET, GENERIC_WEBHOOK_SECRET, DATABASE_USER, DATABASE_PASSWORD, DATABASE_ADMIN_PASSWORD, NPM_MIRROR were generated automatically.*
